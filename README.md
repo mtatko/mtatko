@@ -1,7 +1,7 @@
 # Hey! I'm Mateusz 👋
 ![🎂 17 years old](https://img.shields.io/badge/🎂_17_years_old-BCE784?style=for-the-badge) 
 ![👨‍💻 IT Student (year 3 of 5)](https://img.shields.io/badge/👨‍💻_IT_Student_(year_3_of_5)-5DD39E?style=for-the-badge) 
-![📧 mtatko@mtatko.dev](https://img.shields.io/badge/📧_mtatko%40mtatko.dev-348AA7?style=for-the-badge) 
+[![📧 mtatko@mtatko.dev](https://img.shields.io/badge/📧_mtatko%40mtatko.dev-348AA7?style=for-the-badge)](mailto:mtatko@mtatko.dev) 
 [![mtatko](https://img.shields.io/badge/mtatko-0072b1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/mtatko) 
 ![@iAmThePandaMatt#0001](https://img.shields.io/badge/@iAmThePandaMatt%230001-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)
 
@@ -27,7 +27,7 @@
 
 ## ✨ Projects
 - [CzerwoniakPlus](https://github.com/CzerwoniakPlus): an app for students of Stefan Rowecki "Grot" School Complex No. 1 in Zambrów, where they can find newest and most important news, timetables, substitutions and more! (work in progress)
-- mZambrowiak: an app for people living in the city of Zambrów with public transport schedules *\*and in future - news, but shhh... it's a secret!\** (work in progress)
+- mZKM: an app for people living in the city of Zambrów with public transport schedules (work in progress)
 
 ## 🎀 Other
 ![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) 
