@@ -3,7 +3,7 @@
 ![👨‍💻 IT Student (year 3 of 5)](https://img.shields.io/badge/👨‍💻_IT_Student_(year_3_of_5)-5DD39E?style=for-the-badge) 
 [![📧 mtatko@mtatko.dev](https://img.shields.io/badge/📧_mtatko%40mtatko.dev-348AA7?style=for-the-badge)](mailto:mtatko@mtatko.dev) 
 [![mtatko](https://img.shields.io/badge/mtatko-0072b1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/mtatko) 
-![@iAmThePandaMatt#0001](https://img.shields.io/badge/@iAmThePandaMatt%230001-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)
+![@iAmThePandaMatt#1070](https://img.shields.io/badge/@iAmThePandaMatt%231070-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
