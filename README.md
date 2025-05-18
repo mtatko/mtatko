@@ -1,10 +1,11 @@
 # Hey! I'm Mateusz 👋
-![🎂 18 years old](https://img.shields.io/badge/🎂_18_years_old-BCE784?style=for-the-badge) 
-![👨‍💻 IT Student (year 4 of 5)](https://img.shields.io/badge/👨‍💻_IT_Student_(year_4_of_5)-5DD39E?style=for-the-badge) 
+![🎂 19 years old](https://img.shields.io/badge/🎂_19_years_old-BCE784?style=for-the-badge) 
+![👨‍💻 IT Technician](https://img.shields.io/badge/👨‍💻_IT_Technician-5DD39E?style=for-the-badge) 
 [![📧 mtatko@mtatko.dev](https://img.shields.io/badge/📧_mtatko%40mtatko.dev-348AA7?style=for-the-badge)](mailto:mtatko@mtatko.dev) 
-[![mtatko](https://img.shields.io/badge/mtatko-0072b1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/mtatko) 
-![@iAmThePandaMatt](https://img.shields.io/badge/@iAmThePandaMatt-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)
+[![mtatko](https://img.shields.io/badge/mtatko-0072b1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/mtatko)
 
+
+<!--
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,20 +25,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-252526?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+-->
 
-## ✨ Projects
-- [CzerwoniakPlus](https://github.com/CzerwoniakPlus): an app for students of Stefan Rowecki "Grot" School Complex No. 1 in Zambrów, where they can find newest and most important news, timetables, substitutions and more! (work in progress)
-- mZKM: an app for people living in the city of Zambrów with public transport schedules (work in progress)
-
-## 🎀 Other
+### 🗣️ Languages
 ![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) 
 ![English Intermediate](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-intermediate-blue?style=for-the-badge) 
 ![German Beginner](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AAGerman-beginner-blue?style=for-the-badge)
 
-## ⚙ Github Stats
-<a href="https://github.com/mtatko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtatko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-</a>
+### ⚙ Github Stats
+  <a href="https://github.com/mtatko">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtatko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+</a> <br>
 <a href="https://wakatime.com/@mtatko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mtatko&layout=compact&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mtatko&layout=compact&theme=algolia" />
 </a>
