@@ -1,8 +1,6 @@
 # Hey! I'm Mateusz 👋
-![🎂 19 years old](https://img.shields.io/badge/🎂_19_years_old-BCE784?style=for-the-badge) 
 ![👨‍💻 IT Technician](https://img.shields.io/badge/👨‍💻_IT_Technician-5DD39E?style=for-the-badge) 
 [![📧 mtatko@mtatko.dev](https://img.shields.io/badge/📧_mtatko%40mtatko.dev-348AA7?style=for-the-badge)](mailto:mtatko@mtatko.dev) 
-[![mtatko](https://img.shields.io/badge/mtatko-0072b1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/mtatko)
 
 
 <!--
