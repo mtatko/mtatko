@@ -27,7 +27,7 @@
 
 ### 🗣️ Languages
 ![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) 
-![English Intermediate](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-intermediate-blue?style=for-the-badge) 
+![English Advanced](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-intermediate-blue?style=for-the-badge) 
 ![German Beginner](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AAGerman-beginner-blue?style=for-the-badge)
 
 ### ⚙ Github Stats
