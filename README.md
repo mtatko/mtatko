@@ -1,5 +1,5 @@
 # Hey! I'm Mateusz 👋
-![👨‍💻 IT Technician](https://img.shields.io/badge/👨‍💻_IT_Technician-5DD39E?style=for-the-badge) 
+![👨‍💻 CyberSec Student](https://img.shields.io/badge/👨‍💻_CyberSec_Student-5DD39E?style=for-the-badge) 
 [![📧 mtatko@mtatko.dev](https://img.shields.io/badge/📧_mtatko%40mtatko.dev-348AA7?style=for-the-badge)](mailto:mtatko@mtatko.dev) 
 
 
